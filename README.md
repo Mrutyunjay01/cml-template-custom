@@ -1,22 +1,33 @@
 # Project Name
 
-## docs
+Platform:  
+Organizers:  
+Competition Page: 
+
+## About
+
+## Dataset Overview
+
+## Evaluation Metrics
+
+## Directory Navigation
+### docs
 
 - Related docs such as references, articles, documentation, etc to be saved in this directory.
 
-## inp
+### inp
 
 - Input data folder.
 
-## models
+### models
 
 - Trained weights/ pretrained-weights of various models used/referred in the solution.
 
-## notebooks
+### notebooks
 
 - EDA, modelling, pipeline notebooks to be added here.
 
-## src
+### src
 
 - Code package, consisting of modularised code for data preparation, cross validation, feature engineering, modelling, inference code snippets.
 
