@@ -6,3 +6,9 @@
 
 # pycache
 **/__pycache__
+
+# uncomment to exclude inp data folder as well in case of larger files
+# /inp
+
+# exclude venv
+/cml-env
