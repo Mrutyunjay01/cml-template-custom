@@ -1,0 +1,5 @@
+data:
+  inp: "./../inp"
+  out: "./../out"
+
+logs: "./../logs"
