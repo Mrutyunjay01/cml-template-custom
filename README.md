@@ -11,6 +11,7 @@ Competition Page:
 ## Evaluation Metrics
 
 ## Directory Navigation
+
 ### docs
 
 - Related docs such as references, articles, documentation, etc to be saved in this directory.
